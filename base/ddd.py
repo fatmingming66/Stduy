@@ -1,0 +1,1 @@
+from base.common import get_devices
